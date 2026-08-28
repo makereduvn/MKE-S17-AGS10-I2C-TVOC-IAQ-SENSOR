@@ -13,7 +13,7 @@
 - Điện áp cấp nguồn: 5VDC
 - Chuẩn tín hiệu điều khiển: I2C (tần số ≤ 15kHz)
 - Điện áp giao tiếp: TTL 3.3 / 5VDC
-- Cảm biến sử dụng: AGS10 TVOC Gas Sensor ASAIR
+- Cảm biến sử dụng: [AGS10 TVOC Gas Sensor ASAIR](/extras/AGS10%20%20datasheet.pdf)
 - Dòng điện hoạt động: 28 ± 5mA
 - Công suất tiêu thụ: 75mW
 - Dải đo: 0 ~ 99.999ppb (TVOC)
