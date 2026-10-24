@@ -53,7 +53,7 @@
 - Kết nối chân `SDA` của cảm biến với chân I2C Data của mạch điều khiển.
 
 ### Hướng dẫn sử dụng với Arduino / ESP32
-- Trong Github của bộ thư viện, chọn **<> Code / Download ZIP** để tải về bộ thư viện.
+- Trong Github của sản phẩm, chọn **<> Code / Download ZIP** để tải về bộ thư viện.
 - Mở chương trình Arduino, chọn **Sketch / Include Library / Add .ZIP Library** để cài đặt bộ thư viện.
 - Mở chương trình mẫu tại **File / Examples / MKE_S17_AGS10**
 - Cấu hình board mạch tương ứng là **Arduino Uno / ESP32**, chọn đúng cổng **COM Port** của mạch và nhấn **Upload** để nạp chương trình.
